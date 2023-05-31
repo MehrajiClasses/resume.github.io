@@ -1,1 +1,1 @@
-# MehrajiClassesResume.github.io
+# resume.github.io
